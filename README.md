@@ -1,4 +1,4 @@
-# Core_Proje
+# Core_Proje Asp.Net Core 5.0 ile Adım Adım Web Geliştirme Entity Framework Core | Repository Design Pattern | Unit of Work | Deploy | Fluent Validation | Api | Ve Daha Fazlası
 AspNet Core 5.0
 
 Entity Framework Core
